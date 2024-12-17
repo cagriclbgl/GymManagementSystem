@@ -49,15 +49,16 @@ API, bu işlemleri gerçekleştirmek için temel kontrollere sahiptir:
    cd <>
 
 2. **Veritabanını Ayarlayın**
+   ```bash
    spring.datasource.url=jdbc:mysql://localhost:3306/gym_db
    spring.datasource.username=admin
    spring.datasource.password=123456
    spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
-3. **Bağımlılıkları yükleyin**
+4. **Bağımlılıkları yükleyin**
     Terminale 'mvn clean install' yazın
    
-4. **Uygulamayı başlatın**
+5. **Uygulamayı başlatın**
     Terminale 'mvn spring-boot:run'
 
  ### Kullanım 
