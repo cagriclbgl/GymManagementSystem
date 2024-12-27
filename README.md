@@ -1,10 +1,12 @@
-# cagri-ekrem_gymSystem
-Gym Management System with Java
+# GymManagementSystem
+Basic Gym Management System with Java
 # Spor Salonu Yönetim Sistemi API'si
 
 ## Projenin Amacı
 
 Bu proje, spor salonlarının yönetimini kolaylaştırmak amacıyla geliştirilmiştir. Sistem, kullanıcıların kayıt olmalarını, giriş yapmalarını, derslere katılmalarını ve eğitmen seçimlerini kolaylaştırmayı hedefler. Aynı zamanda yönetim için ders ve eğitmen bilgilerini düzenlemeye olanak tanır.
+
+! Bu proje geliştirilmeye açık bir projedir ve tam anlamıyla bir spor salonunda kullanılacak seviyede değildir. 
 
 ## Çalışma Prensibi
 
